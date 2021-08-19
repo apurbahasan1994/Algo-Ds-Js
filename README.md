@@ -1,1 +1,1 @@
-# Algo-Ds-Js
+Algorithms and Data structures using Javascript.
