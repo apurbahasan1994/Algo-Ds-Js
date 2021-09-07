@@ -16,4 +16,4 @@ function reverse(string_value){
 
 }
 
-console.log(reverse("ajka tore muramu"));
+console.log(reverse("Apurba"));
